@@ -3,7 +3,7 @@ chrome.contextMenus.create({
 	'contexts': ['selection'],
 	'onclick': async (context) => {
 		const name = context.selectionText;
-		const response = await fetch(`https://www.omdbapi.com/?t=${name}&apikey=YOUR_API_KEY`)
+		const response = await fetch(`https://www.omdbapi.com/?t=${name}&apikey=PLACE_API_KEY_HERE`)
 		const {
 			Title,
 			Year,
