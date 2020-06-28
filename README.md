@@ -1,6 +1,8 @@
 # IMDB-Lookup-Chrome-Extension
 This simple extension extracts IMDb details of any movie/tv-series/web-series from the context menu (right click menu) by making an api call to the Open Movie Database OMDb.
 
+<img src="https://github.com/kanish51/IMDB-Lookup-Chrome-Extension/blob/master/screenshot.gif" width="800" height="350" />
+
 ## How to Use
 - Clone the repository
 - Get your own free OMDb api key from [here](https://www.omdbapi.com/apikey.aspx)
